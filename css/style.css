@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Playfair', serif;
+    font-size: 1.25em;
+}
+
+header {
+    background-color: rgb(97, 226, 23);
+}
+
+footer {
+    background-color: aquamarine;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 50px 20px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+.logo {
+    width: 50px;
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.avatar {
+    max-width: 500px;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+main-nav {
+    list-style: none;
+    margin: 5px 10px;
+}
